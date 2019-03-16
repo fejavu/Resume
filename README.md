@@ -1,7 +1,7 @@
 # Resume of Sunshine
 
 - Name:sunshine
-- mail:fejavu@foxmail.com
+- mail:[fejavu@foxmail.com](mailto:fejavu@foxmail.com)
 - Github:github.com/fejavu:
 
 
