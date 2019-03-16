@@ -2,7 +2,7 @@
 
 - Name:sunshine
 - mail:[fejavu@foxmail.com](mailto:fejavu@foxmail.com)
-- Github:[github.com/fejavu](github.com/fejavu)
+- Github:[github.com/fejavu](https://www.github.com/fejavu)
 
 
 ## Education
