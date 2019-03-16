@@ -1,6 +1,9 @@
 # Resume of Sunshine
 
-## Name:sunshine
+- Name:sunshine
+- mail:fejavu@foxmail.com
+- Github:github.com/fejavu:
+
 
 ## Education
 - 2013 ~ 2017,Vovational technical school of Mingguangcun:
