@@ -3,8 +3,7 @@
 ## Name:sunshine
 
 ## Education
-- 2013 ~ 2017,Vovational technical school of Mingguangcun
-- Science and Technology of Eletronic Imformation
+- 2013 ~ 2017,Vovational technical school of Mingguangcun:
 - Bachelor Degree
 
 ## Projects
