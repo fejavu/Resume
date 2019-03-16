@@ -2,11 +2,11 @@
 
 - Name:sunshine
 - mail:[fejavu@foxmail.com](mailto:fejavu@foxmail.com)
-- Github:github.com/fejavu:
+- Github:[github.com/fejavu](github.com/fejavu)
 
 
 ## Education
-- 2013 ~ 2017,Vovational technical school of Mingguangcun:
+- 2013 ~ 2017,Vocational technical school of Mingguangcun
 - Bachelor Degree
 
 ## Projects
