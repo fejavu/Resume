@@ -1,6 +1,6 @@
-# 冯阳光
-
-- Phone:  1868225339
+## Personal Information
+- Name  : 冯阳光
+- Phone : 1868225339
 - E-Mail: [fejavu@foxmail.com](mailto:fejavu@foxmail.com)
 - Github: [github.com/fejavu](https://www.github.com/fejavu)
 
@@ -16,6 +16,7 @@
 - State-Own company
 - After graduated from school(2017), I have worked in a state-own company while doing nothing with tech and code.
 
------
-### Copyright
-Copyright &copyright 2019 Fejavu. All Rights Reserved.
+
+
+
+Copyright &copy 2019 Fejavu. All Rights Reserved.
