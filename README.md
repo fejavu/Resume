@@ -19,4 +19,4 @@
 
 
 
-Copyright &copy 2019 Fejavu. All Rights Reserved.
+Copyright &copy; 2019 Fejavu. All Rights Reserved.
